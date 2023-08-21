@@ -1,0 +1,7 @@
+1. Install Python
+2. Create new environment
+3. Install Django - pip install django
+4. django-admin startproject website
+5. Update the new app - website in list of apps
+6. Update the databse settings
+7. Create mydb.py file
